@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goderichelectrician.ca/sitemap-index.xml
